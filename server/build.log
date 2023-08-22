@@ -1,0 +1,32 @@
+==========start=============
+./build.sh  wechat_service:v1
+开始制作镜像：wechat_service:v1 
+给镜像：wechat_service:v1 打标签 
+推送镜像：wechat_service:v1 到 harbor.7in6.com
+The push refers to repository [registry.cn-hangzhou.aliyuncs.com/zifeng6257/wechat_service]
+完成
+==========end=============
+==========start=============
+./build.sh  wechat_service:v1
+开始制作镜像：wechat_service:v1 
+给镜像：wechat_service:v1 打标签 
+推送镜像：wechat_service:v1 到 harbor.7in6.com
+The push refers to repository [registry.cn-hangzhou.aliyuncs.com/zifeng6257/wechat_service]
+完成
+==========end=============
+==========start=============
+./build.sh  wechat_service:v1
+开始制作镜像：wechat_service:v1 
+给镜像：wechat_service:v1 打标签 
+推送镜像：wechat_service:v1 到 harbor.7in6.com
+The push refers to repository [registry.cn-hangzhou.aliyuncs.com/zifeng6257/wechat_service]
+完成
+==========end=============
+==========start=============
+./build.sh  wechat_service:v1
+开始制作镜像：wechat_service:v1 
+给镜像：wechat_service:v1 打标签 
+推送镜像：wechat_service:v1 到 harbor.7in6.com
+The push refers to repository [registry.cn-hangzhou.aliyuncs.com/zifeng6257/wechat_service]
+完成
+==========end=============

@@ -1,0 +1,3 @@
+./build.sh  wechat_service_web:v1
+./build.sh  wechat_service_web:v1
+./build.sh  wechat_service_web:v1
