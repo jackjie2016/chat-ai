@@ -395,9 +395,9 @@ func UploadToOss(Id, url string) (ossUrl string) {
 	fmt.Println("UploadToOss 1", url)
 	// OSS配置信息
 	endpoint := "oss-ap-southeast-1.aliyuncs.com"
-	accessKeyID := "LTAI5tN9YEpdtL4N94mWRDYk"
-	accessKeySecret := "5mISqOyU0g6EX5wK5gXPZwmfww9jtS"
-	bucketName := "minong-mj"
+	accessKeyID := ""
+	accessKeySecret := ""
+	bucketName := ""
 
 	objectName := global.GVA_CONFIG.AliyunOSS.BasePath + "/" + "uploads" + "/" + time.Now().Format("2006-01-02") + "/"
 
